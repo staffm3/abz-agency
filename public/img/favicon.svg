@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+      @media (prefers-color-scheme: dark) {
+        path {
+          fill: white;
+        }
+      }
+    </style>
+  </defs>
+  <path id="abz-favicon-black" class="cls-1" d="M7,11l6-9H3L5.087,5.182,4,7S0.06,0.993,0,1C-0.012,1,0,0,0,0H16a5.233,5.233,0,0,1,0,1L9,12ZM9,5L3,14H13l-2.087-3.182L12,9s3.947,5.906,4,6a4.321,4.321,0,0,1,0,1H0a5.585,5.585,0,0,1,0-1C0.033,14.981,7,4,7,4Z"/>
+</svg>
